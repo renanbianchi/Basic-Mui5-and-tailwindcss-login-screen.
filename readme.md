@@ -1,0 +1,1 @@
+This is just a simple project that i used to experiment with [Mui5](https://mui.com/), and [tailwindcss](https://tailwindcss.com/)
